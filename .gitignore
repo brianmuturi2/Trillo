@@ -1,3 +1,8 @@
 #Don't track these folders
 
 /img
+/node_modules
+
+
+# Reference for jonas project
+pack.json
